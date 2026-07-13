@@ -520,3 +520,6 @@ hgetc PuschRep=Default,PuschRepUeCfg=Vonr puschRepMode$
 fi
 
 exit
+
+
+
